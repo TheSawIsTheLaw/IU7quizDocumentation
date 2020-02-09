@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'IU7QuizBot'
+project = 'IU7QuizBot for Students'
 copyright = '2020, xGULZAx'
 author = 'xGULZAx'
 
@@ -35,6 +35,8 @@ extensions = [
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+language = 'ru'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
