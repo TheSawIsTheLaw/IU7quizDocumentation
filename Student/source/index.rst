@@ -11,7 +11,6 @@ Welcome to IU7QuizBot's documentation!
    :caption: Contents:
    
    STUDENTS.rst
-   LECTURER.rst
 
 
 Indices and tables
