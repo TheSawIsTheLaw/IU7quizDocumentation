@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'IU7QuizBot for Students'
-copyright = '2020, xGULZAx'
-author = 'xGULZAx'
+copyright = '2020, IU7OG Team'
+author = 'hackfeed (aka Sergey Kononenko), mRrvz (aka Alexey Romanov), Justarone, CATFELLA, gregory-mironov (aka Gregory), hamzreg, MyMiDiII (aka Maslova Marina), TheSawIsTheLaw (aka Yakuba Dmitry)'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
